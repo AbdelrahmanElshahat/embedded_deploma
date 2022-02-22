@@ -1,3 +1,0 @@
-D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/3-C Basic/Ex/Homework 1/Ex2/cmake-build-debug/CMakeFiles/Ex2.dir
-D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/3-C Basic/Ex/Homework 1/Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/3-C Basic/Ex/Homework 1/Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
