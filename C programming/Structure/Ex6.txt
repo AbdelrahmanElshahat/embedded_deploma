@@ -1,0 +1,2 @@
+Size of Union = 32
+Size of Struct = 40

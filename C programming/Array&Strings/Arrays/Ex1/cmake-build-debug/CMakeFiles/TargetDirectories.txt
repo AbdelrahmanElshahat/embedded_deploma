@@ -1,0 +1,3 @@
+D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/4-Array&string/Ex/embedded_deploma/Array&Strings/Arrays/Ex1/cmake-build-debug/CMakeFiles/Ex1.dir
+D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/4-Array&string/Ex/embedded_deploma/Array&Strings/Arrays/Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/college/Embeded and Electronics/Embedded Dyploma/Unit 2/4-Array&string/Ex/embedded_deploma/Array&Strings/Arrays/Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
