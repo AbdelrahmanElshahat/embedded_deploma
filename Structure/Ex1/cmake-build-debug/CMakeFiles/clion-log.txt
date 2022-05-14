@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja /home/shahat/embedded_deploma/Structure/Ex1
--- Configuring done
--- Generating done
--- Build files have been written to: /home/shahat/embedded_deploma/Structure/Ex1/cmake-build-debug

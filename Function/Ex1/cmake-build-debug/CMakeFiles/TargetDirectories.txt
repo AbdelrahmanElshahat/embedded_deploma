@@ -1,3 +1,0 @@
-/home/shahat/embedded_deploma/Function/Ex1/cmake-build-debug/CMakeFiles/Ex1.dir
-/home/shahat/embedded_deploma/Function/Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/shahat/embedded_deploma/Function/Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
