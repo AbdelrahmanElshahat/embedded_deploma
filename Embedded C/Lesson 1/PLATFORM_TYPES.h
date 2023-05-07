@@ -11,7 +11,7 @@ typedef  double sint64_t;
 typedef signed int sint32_t;
 typedef signed short sint16_t;
 typedef signed char sint8_t;
-typedef float sfint_32;
+typedef float sfint32_t;
 
 typedef volatile uint8_t vuint8_t;
 typedef volatile uint16_t vuint16_t;
