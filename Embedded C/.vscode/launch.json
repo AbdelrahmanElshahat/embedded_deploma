@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Remote Debug",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "/home/elshahat/Desktop/embedded_deploma/Embedded C/Lesson 2/learn-in-depth.elf",
+    "args": [],
+    "stopAtEntry": false,
+    "cwd": "/home/elshahat/Desktop/embedded_deploma/Embedded C/Lesson 2",
+    "environment": [],
+    "externalConsole": true,
+    "MIMode": "gdb",
+    "miDebuggerPath": "gdb-multiarch",
+    "miDebuggerServerAddress": "localhost:1234"
+        }
+    ]
+}
