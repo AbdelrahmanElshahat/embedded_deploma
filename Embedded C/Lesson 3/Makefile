@@ -23,10 +23,10 @@ flash:$(TARGET).bin
 %.o : %.c	
 	$(CC)gcc  -c $(INCS) $(CFLAGS)  -o $@ $<
 $(TARGET).elf:$(OBJ) $(ASOBJ)
-	$(CC)ld -T linker_script.ld -o $@ $(OBJ) $(ASOBJ) -Map=Map_file.map
+	$(CC)ld -T linker_script.ld -o $@ $(OBJ) $(ASOBJ)  -Map=Map_file.map
 $(TARGET).list:$(TARGET).elf	
 	$(CC)objdump -D $<  $@	
 $(TARGET).hex:$(TARGET).elf	
 	$(CC)objcopy -O binary $< $@
 clean:
-	rm -f *.o *.elf *.bin *.list *.map	
+	rm -f *.o *.elf *.bin *.list *.map	*.hex *.elf.asm

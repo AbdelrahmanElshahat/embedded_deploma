@@ -9,6 +9,8 @@
 #define RCC_IOPAEN (1<<2)
 #define GPIOA13 (1UL<<13)
 
+uint8_t g_var [3]= {1,2,3};
+uint8_t const c_var[3] = {1,2,3};
 typedef union {
 	vuint32_t all_fields;
 	struct{
