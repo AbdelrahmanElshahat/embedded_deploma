@@ -24,7 +24,7 @@ flash:$(TARGET).bin
 	$(CC)gcc  -c $(INCS) $(CFLAGS)  -o $@ $<
 $(TARGET).elf:$(OBJ) $(ASOBJ)
 	$(CC)ld -T linker_script.ld -o $@ $(OBJ) $(ASOBJ)  -Map=Map_file.map
-	cp $(TARGET).elf $(TARGET).elf.axf
+	cp $(TARGET).elf $(TARGET).axf
 $(TARGET).list:$(TARGET).elf	
 	$(CC)objdump -D $<  $@	
 $(TARGET).hex:$(TARGET).elf	
